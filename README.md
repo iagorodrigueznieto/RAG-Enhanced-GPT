@@ -1,5 +1,5 @@
 
-# rag_2024
+# RAG-Enhanced-GPT
 
 ## Descripción del proyecto
 ### ¿Qué es un RAG?
